@@ -1,3 +1,5 @@
+Drag and Droppe das in deinen Plugin Ordner von Better Discord
+
 1. Mute Ein & Ausgabe
 
 2. Aktiviere das Plugin
