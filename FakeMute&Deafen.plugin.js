@@ -1,4 +1,4 @@
-//META{"name":"ExampleLibraryPlugin", "authorId":"881274999351181362", "invite":"", "source":"https://github.com/phasesfaces", "website":"https://www.youtube.com/watch?v=fIglhNw9zrU&t=100s"}*//
+//META{"name":"ExampleLibraryPlugin", "authorId":"881274999351181362", "invite":"", "source":"https://github.com/phasesfaces/Fake-Mute-und-Vollmute-", "website":"https://www.youtube.com/watch?v=fIglhNw9zrU&t=100s"}*//
 //import {DiscordModules as Modules} from "modules";
 class ExampleLibraryPlugin {
     
