@@ -5,7 +5,7 @@ class ExampleLibraryPlugin {
     getName() {return "Fake Mute & Vollmute";}
     getDescription() {return "Tritt einem Talk bei, vollmute dich , starte und stoppe das Plugin, jetzt un-mute dich und du kannst zuhören und sogar mitreden ;D";}
     getVersion() {return "0.1.1";}
-    getAuthor() {return "phases#0001";}
+    getAuthor() {return "phases";}
     
 
 
