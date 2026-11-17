@@ -9,6 +9,3 @@ Drag and Droppe das in deinen Plugin Ordner von Better Discord
 4. Entmute dich
 
 Um wieder anderen Talks beitreten zu können restarte Discord einfach mit [Alt + F4]
-
-
-
