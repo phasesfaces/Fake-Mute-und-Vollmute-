@@ -12,4 +12,3 @@ Um wieder anderen Talks beitreten zu können restarte Discord einfach mit [Alt +
 
 
 
-fick mal dein Vater wenn du das weiterschickst btw ;D
